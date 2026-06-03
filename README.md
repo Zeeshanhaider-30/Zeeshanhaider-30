@@ -34,8 +34,10 @@ With a strong background in programming and version control (Git/GitHub), I also
 
 ## 📈 Git & Professional Stats
 
-![Zeeshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zeeshanhaider-30&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshanhaider-30&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zeeshanhaider-30&show_icons=true&theme=tokyonight&count_private=true" alt="Zeeshan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshanhaider-30&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
