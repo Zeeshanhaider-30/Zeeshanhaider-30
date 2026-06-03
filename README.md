@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Zeeshan Haider  
 ### Computer Science Student | Frontend Developer | Data Analyst 
 
-A passionate developer and designer focused on building responsive web applications, extracting actionable insights from data, and prototyping smart IoT systems. I bridge the gap between clean code, technical data visualization, and striking visual media.
+I am a Computer Science student and Frontend Web Developer who loves building clean, fast, and easy-to-use websites. I specialize in creating responsive designs using HTML, CSS, JavaScript, and Tailwind, while also using Python to analyze data and build smart automation scripts.
+
+With a strong background in programming and version control (Git/GitHub), I also have proven experience leading media teams, managing platforms, and handling digital data with high accuracy. I am looking for a professional opportunity where I can use my coding and analytical skills to build great software solutions.
 
 ---
 
