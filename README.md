@@ -28,7 +28,7 @@ A passionate developer and designer focused on building responsive web applicati
 
 ### 🔌 Hardware Prototyping & IoT
 *   **Smart Security Systems:** Designing circuit layouts and logic firmware for smart bike security and helmet detection systems using microcontrollers.
-
+ 
 ---
 
 ## 📈 Git & Professional Stats
