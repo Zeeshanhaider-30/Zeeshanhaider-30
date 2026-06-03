@@ -33,12 +33,13 @@ With a strong background in programming and version control (Git/GitHub), I also
 ---
 
 ## 📈 Git & Professional Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeeshanhaider-30&show_icons=true&theme=tokyonight&count_private=true" alt="Zeeshan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshanhaider-30&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
+### 🖥️ Core Tech Stack & Frameworks
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ---
 
 ## 💼 Leadership & Media Experience
