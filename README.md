@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Zeeshan Haider  
-### Computer Science Student | Frontend Developer | Data Analyst & Tech Specialist
+### Computer Science Student | Frontend Developer | Data Analyst 
 
 A passionate developer and designer focused on building responsive web applications, extracting actionable insights from data, and prototyping smart IoT systems. I bridge the gap between clean code, technical data visualization, and striking visual media.
 
@@ -9,9 +9,8 @@ A passionate developer and designer focused on building responsive web applicati
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend Web Dev** | HTML5 • CSS3 • JavaScript (ES6+) • Tailwind CSS • Responsive UI Design |
+| **Frontend Web Dev** | HTML5 • CSS3 • JavaScript  • Tailwind csS • Responsive UI Design |
 | **Data & Programming**| Python • Core Programming Fundamentals • Data Analysis • Machine Learning Models |
-| **Hardware & IoT**   | Arduino IDE • Microcontroller Prototyping • Circuit Logic & Security Systems |
 | **Software & Tools**  | Microsoft Office (Advanced Word & Excel) • Git & GitHub • Graphic Design Software |
 
 ---
